@@ -1,0 +1,11 @@
+version: 1
+project:
+  title: "Đồ án Tiền xử lý Dữ liệu — Chuỗi thời gian (NVDA)"
+  authors:
+    - name: "Trần Ngọc Quân"
+  toc:
+    - file: index.md
+    - file: 03_temporal_preprocessing.ipynb
+    - file: report.md
+site:
+  template: book-theme

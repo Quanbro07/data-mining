@@ -22,11 +22,11 @@ Tiền xử lý dữ liệu chuỗi thời gian tài chính đòi hỏi lập lu
 
 | Thông tin | Chi tiết |
 | :--- | :--- |
-| **Họ và tên** | `[Họ và tên sinh viên]` |
-| **MSSV** | `[Mã số sinh viên]` |
-| **Lớp / Khóa** | `[Lớp / Khóa học]` |
-| **Email liên hệ** | `[Email sinh viên]` |
-| **Jupyter Book (GitHub Pages)** | `[https://<username>.github.io/<repo>/]` |
+| **Họ và tên** | `Trần Ngọc Quân` |
+| **MSSV** | `24127518` |
+| **Lớp** | `Khai thác dữ liệu và ứng dụng - 24KHMT1` |
+| **Email liên hệ** | `tnquan2407@clc.fitus.edu.vn` |
+| **Jupyter Book (GitHub Pages)** | `https://github.com/Quanbro07/data-mining` |
 
 > **Lưu ý:** Vui lòng cập nhật các trường `[...]` bằng thông tin cá nhân và URL GitHub Pages công khai trước khi nộp link lên Moodle.
 
@@ -91,7 +91,7 @@ data-mining/
 
 ### Bước 1: Tạo môi trường ảo và cài đặt phụ thuộc (`Python >= 3.10`)
 ```bash
-git clone <repository-url>
+git clone https://github.com/Quanbro07/data-mining.git
 cd data-mining
 
 python -m venv .venv
